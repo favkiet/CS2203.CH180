@@ -35,6 +35,7 @@ Faster R-CNN and YOLO are two popular object detection models widely used in com
 The training stage was implemented in the Kaggle environment. You need to install the required dependencies as shown below to ensure the proper execution of the code. The installation methods for each approach are presented in these individual notebooks. Details:
 
 **YOLOv10**: ```/yolov10/notebooks/yolov10-training.ipynb```
+
 **Faster-RCNN**: ```/faster-rcnn/notebooks/faster-rcnn-training.ipynb```
 
 # Experiment
